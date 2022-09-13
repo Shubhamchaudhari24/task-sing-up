@@ -1,0 +1,51 @@
+#s {
+    background-color: red;
+    padding: 1rem;
+    width: 9rem;
+    border-radius: 9px;
+    margin-left: 89px;
+    height: 7px;
+    width: 227px;
+}
+#f {
+    background-color: black;
+    width: 60vh;
+    position: absolute;
+    height: 60vh;
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 50px;
+    
+    }
+#o {
+    color: white;
+    text-align:left;
+    margin-left: 89px;
+}
+#e {
+    color: white;
+}
+#r {  
+    color: white;
+}
+#y {
+    width: 250px;
+    text-align: center;
+    border: 2px solid black;
+    height: 24px;
+    border-radius: 10px;
+}
+#b {
+    color: white;
+    text-align: left;
+}
+#z {
+    color: white;
+    text-align: left;
+}
+#x {
+    color: blue;
+}
+body {
+    background-color: yellow;
+}
